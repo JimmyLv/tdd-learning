@@ -1,0 +1,17 @@
+{
+  "name": "tdd-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JimmyLv/tdd-learning.git",
+  "author": "吕立青 <jimmy.jinglv@gmail.com>",
+  "license": "MIT",
+"scripts": {
+    "test": "umi-test"
+},
+  "dependencies": {
+    "@testing-library/react": "^9.3.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "umi-test": "^1.9.0"
+  }
+}
