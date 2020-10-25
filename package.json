@@ -10,7 +10,7 @@
     "start": "umi dev"
   },
   "dependencies": {
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/react": "^11.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "umi": "^2.12.3",
